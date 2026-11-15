@@ -1,50 +1,10 @@
 {
   "spider": "",
   "wallpaper": "https://tu.ltyuanfang.cn/api/fengjing.php",
-  "warningText": "资源来自网络-免费",
+  "notice": "[GE6]🍑1115🍑",
   "sites": [
-    {
-      "key": "央视频",
-      "name": "央视频.py",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://github.com/ge6bu6/1/blob/main/py/央视频.py"
-    },
-    {
-      "key": "独播库",
-      "name": "独播库.py",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://github.com/ge6bu6/1/blob/main/py/独播库.py"
-    },
-    {
-      "key": "全剧得",
-      "name": "全剧得.py",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://github.com/ge6bu6/1/blob/main/py/全剧得.py"
-    },
-    {
-      "key": "剧OK",
-      "name": "剧OK.py",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://github.com/ge6bu6/1/blob/main/py/剧OK.py"
-    },
-    {
-      "key": "采集合集",
-      "name": "采集合集.py",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://github.com/ge6bu6/1/blob/main/py/采集合集.py"
-    },
-    {
-      "key": "聚合平台",
-      "name": "聚合平台.py",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://github.com/ge6bu6/1/blob/main/py/聚合平台.py"
-    },
-    {
-      "key": "直播大全",
-      "name": "直播大全.py",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://github.com/ge6bu6/1/blob/main/py/直播大全.py"
-    },
+   
+   
     {
       "key": "果果短剧",
       "name": "果果短剧.py",
@@ -69,18 +29,7 @@
       "type": 3,
       "api": "https://gh-proxy.com/https://github.com/ge6bu6/1/blob/main/py/瑟瑟直播.py"
     },
-    {
-      "key": "StripChat",
-      "name": "StripChat.py｜🔞",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://github.com/ge6bu6/1/blob/main/py/StripChat.py"
-    },
-    {
-      "key": "StripChat_1",
-      "name": "StripChat_1.py｜🔞",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://github.com/ge6bu6/1/blob/main/py/StripChat_1.py"
-    },
+    
     {
       "key": "Cam4",
       "name": "Cam4直播.py｜🔞",
